@@ -3,7 +3,7 @@
 
 # Paso 1
 
-- Clonar el proyecto [Aqui](https://github.com/Carlos-Selman/CRUDPROYECTOFINAL-2018325.git)
+- Clonar el proyecto [Aqui](https://github.com/CarlosSelman/Aplicaci-n-Web-Grupal-Java-CRUD.git)
 
 # Paso 2
 
@@ -61,4 +61,11 @@
   ![](https://github.com/Carlos-Selman/CRUDPROYECTOFINAL-2018325/blob/assets/assets/erase.png)
   
   
+
+
+
+# NOTA
+
+
+- Para ir al repositorio grupal que contiene lo mismo presiones [Aqui](https://github.com/Carlos-Selman/CRUDPROYECTOFINAL-2018325.git)
 
