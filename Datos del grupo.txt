@@ -1,0 +1,11 @@
+Carlos Andrés Selman David – 2018325 – IN5BM – Diseño de la Aplicación
+Martin Alejandro Tecún Charles – 2016228 – IN5BM – Implementar el archivo de configuración – Implementar el CRUD en el servelt (Operaciones)
+Fredy Jose Daniel Reyes Saban - 2019035 - IN5BM - Implementación de la interfaz - Implementación del controlador Editar, eliminar
+Antony Josué Toribio Pérez - 2019038 - IN5BM - Modelo de datos
+Jorge Eduardo Morataya Socop - 2019041 - IN5BM - Crear y realizar las vistas (JSP, XML y código java).
+Luis Rodrigo Morales Florián - 2019047 - IN5BM - Crear y realizar las vistas (JSP, XML y código java).
+Jeffry Alexander Ordoñez Pacheco - 2019042 - IN5BM - Crear y realizar las vistas (JSP, XML y código java).
+Juan José Rodas Mansilla - 2016262 - IN5BM - Desarrollo de la Base de Datos
+Oscar Joaquín Sián Orón - 2019017 - IN5BM - Modelo DAO 
+José Andrés Subuyuj Guxmán - 2016243 - IN5BM - 2 Servlet
+José Alejandro Zuñiga Collado - 2016497 - IN5BM - Creación de la Aplicación con la Estructura.
