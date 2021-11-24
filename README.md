@@ -67,5 +67,5 @@
 # NOTA
 
 
-- Para ir al repositorio grupal que contiene lo mismo presiones [Aqui](https://github.com/Carlos-Selman/CRUDPROYECTOFINAL-2018325.git)
+- Para ir al repositorio grupal que contiene lo mismo presione [Aqui](https://github.com/Carlos-Selman/CRUDPROYECTOFINAL-2018325.git)
 
